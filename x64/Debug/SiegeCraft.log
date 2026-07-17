@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Users\KEREM\Desktop\SiegeCraft\SiegeCraft\main.cpp(109,3): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\Users\KEREM\Desktop\SiegeCraft\SiegeCraft\main.cpp(109,3): warning C4305:         with
+C:\Users\KEREM\Desktop\SiegeCraft\SiegeCraft\main.cpp(109,3): warning C4305:         [
+C:\Users\KEREM\Desktop\SiegeCraft\SiegeCraft\main.cpp(109,3): warning C4305:             _Ty=GLfloat
+C:\Users\KEREM\Desktop\SiegeCraft\SiegeCraft\main.cpp(109,3): warning C4305:         ]
+C:\Users\KEREM\Desktop\SiegeCraft\SiegeCraft\main.cpp(192,3): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\Users\KEREM\Desktop\SiegeCraft\SiegeCraft\main.cpp(192,3): warning C4305:         with
+C:\Users\KEREM\Desktop\SiegeCraft\SiegeCraft\main.cpp(192,3): warning C4305:         [
+C:\Users\KEREM\Desktop\SiegeCraft\SiegeCraft\main.cpp(192,3): warning C4305:             _Ty=GLfloat
+C:\Users\KEREM\Desktop\SiegeCraft\SiegeCraft\main.cpp(192,3): warning C4305:         ]
+C:\Users\KEREM\Desktop\SiegeCraft\SiegeCraft\main.cpp(444,3): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\Users\KEREM\Desktop\SiegeCraft\SiegeCraft\main.cpp(444,3): warning C4305:         with
+C:\Users\KEREM\Desktop\SiegeCraft\SiegeCraft\main.cpp(444,3): warning C4305:         [
+C:\Users\KEREM\Desktop\SiegeCraft\SiegeCraft\main.cpp(444,3): warning C4305:             _Ty=GLfloat
+C:\Users\KEREM\Desktop\SiegeCraft\SiegeCraft\main.cpp(444,3): warning C4305:         ]
+  SiegeCraft.vcxproj -> C:\Users\KEREM\Desktop\SiegeCraft\x64\Debug\SiegeCraft.exe
