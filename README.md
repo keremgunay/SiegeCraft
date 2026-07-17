@@ -1,6 +1,6 @@
 # SiegeCraft
 
-SiegeCraft is an early-stage 2D game and graphics prototype developed in C++ with OpenGL. The project was built to explore low-level graphics programming concepts without relying on a complete game engine.
+SiegeCraft is an early-stage, functional, 2D game and graphics prototype developed in C++ with OpenGL. The project was built to explore low-level graphics programming concepts without relying on a complete game engine.
 
 It demonstrates textured rendering, sprite-sheet animation, camera movement, real-time input handling, shader programming, and basic GPU resource management.
 
